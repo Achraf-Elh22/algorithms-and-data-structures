@@ -2,7 +2,7 @@
 
 Stack is a **linear data structure (elements form a sequence)** that keeps its data in Stack. A Stack use LIFO order which mean the Last item pushed is processed first, all the old items need to wait until new item processed.
 
-!["stack representation"]("./assets/stack.png")
+!["stack representation"](./assets/stack.png)
 
 > Stacks are often described using the analogy of a spring-loaded stack of plates in a cafeteria. Clean plates are placed on top of the stack, pushing down any already there. When a plate is removed from the stack, the one below it pops up to become the new top plate. <a name="myfootnote1">1</a>: Wikipedia
 >
